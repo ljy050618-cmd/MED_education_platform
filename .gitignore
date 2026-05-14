@@ -1,0 +1,6 @@
+.env
+.venv/
+.nicegui/
+__pycache__/
+*.pyc
+education_platform_backup.py

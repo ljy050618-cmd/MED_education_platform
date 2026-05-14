@@ -1,2 +1,5 @@
 nicegui
 fastapi
+uvicorn
+openai
+python-dotenv
